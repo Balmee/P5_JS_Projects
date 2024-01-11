@@ -15,7 +15,7 @@ pointLight: gives the direction the light source comes from, e.g. the mouse
 
 ## Screenshot
 
-![p5js](Screenshot 2024-01-11 124548.png)
+![p5js]("C:\Users\balme\OneDrive\Desktop\P5_JS_Projects\Screenshot 2024-01-11 124548.png")
 
 ## My Coding Experience
 After exploring the p5JS references page, I collated a mood board of ideas for what to produce for my project, eventually settling on the idea of using the glow from the shininess method on two 3D spheres to imitates the effects of eyes following the mouse.When reading the different references for this project it took some understanding and time to reflect on what each method did to create the final product, as before todays brief, I didnt know the majority of the key features used, only using "loc" in a previous project.
